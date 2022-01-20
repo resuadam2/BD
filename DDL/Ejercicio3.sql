@@ -46,8 +46,7 @@ alter table profesor add column depto int not null default 0;
 
 
 alter table profesor add foreign key (depto) references departamento(id)
-		on delete set default on update cascade
-;
+		on delete set default on update cascade;
 
 create or replace table prof_grupo(
 	nrp char(15),
@@ -57,17 +56,6 @@ create or replace table prof_grupo(
 	foreign key (nrp) references profesor(nrp) on delete cascade on update cascade,
 	foreign key (num_grupo,id_asig) references grupo(num,id_asig) on delete cascade on update cascade
 );
-
-
-
-#TODO
-/*
-alter table grupo 
-	add constraint tiene_profesor 
-		check((select prof_grupo.num_grupo, prof_grupo.id_asig, grupo.num, grupo.id_asig from prof_grupo, grupo where 
-				prof_grupo.numgrupo=grupo.num and prof_grupo.id_asig=grupo.id_asig) >= 1)
-;
-*/
 
 create or replace table matricula(
 	dni char(9),
@@ -94,7 +82,7 @@ create or replace table alumno_grupo(
 	foreign key (dni) references alumno(dni) on delete cascade on update cascade
 );
 
-#TODO
+#TODO no se puede hacer con checks, hay que hacerlo con PREPARED STATEMENTS o con alguna TRANSACCIÓN
 /*
 alter table alumno
 	add constraint tiene_matricula 
@@ -103,4 +91,13 @@ alter table alumno
 		where alumno.dni=matricula.dni and alumno_grupo.dni=matricula.dni and matricula.id_asig=alumno_grupo.id_asig)>1)
 ;
 
+*/
+
+#TODO no se puede hacer con checks, hay que hacerlo con PREPARED STATEMENTS o con alguna TRANSACCIÓN
+/*
+alter table grupo 
+	add constraint tiene_profesor 
+		check((select prof_grupo.num_grupo, prof_grupo.id_asig, grupo.num, grupo.id_asig from prof_grupo, grupo where 
+				prof_grupo.numgrupo=grupo.num and prof_grupo.id_asig=grupo.id_asig) >= 1)
+;
 */
