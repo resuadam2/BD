@@ -10,7 +10,7 @@ superficie decimal(5,2) not null
 create or replace table paciente(
 n_hist int primary key,
 dni char(9) not null unique,
-nss int(13) not null unique,
+nss char(13) not null unique,
 nombre varchar(20) not null,
 apellidos varchar(50) not null,
 fecha_nacimiento date not null,
