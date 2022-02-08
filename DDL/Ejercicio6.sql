@@ -4,7 +4,7 @@ use depto_maternidad;
 
 create or replace table planta(
 num int primary key,
-superficie decimal(3,2) not null
+superficie decimal(5,2) not null
 );
 
 create or replace table paciente(
