@@ -15,7 +15,7 @@ create or replace table EMPLEADO(
 
 create or replace table ITINERARIO(
 	CODIGO INT auto_increment primary key,
-	LONGITUD DOUBLE(3,2) not null,
+	LONGITUD DECIMAL(5,2) not null,
 	DURACION TIME not null,
 	MAX_VISISTANTES INT(2),
 	NUMERO_ESPECIES INT
@@ -23,7 +23,7 @@ create or replace table ITINERARIO(
 
 create or replace table ZONA(
 	NOMBRE VARCHAR(30) primary key,
-	EXTENSION DOUBLE(3,2) not null 
+	EXTENSION DECIMAL(5,2) not null 
 );
 
 create or replace table ESPECIE(
@@ -76,7 +76,7 @@ create or replace table ITINERARIO_ZONA(
 );
 
 create or replace table CONTINENTE(
-	NOMBRE_CONTINENTE ENUM('EUROPA','ASIA','¡FRICA','OCEANIA','AM…RICA','ANT¡RTIDA'),
+	NOMBRE_CONTINENTE ENUM('EUROPA','ASIA','√ÅFRICA','OCEANIA','AM√âRICA','ANT√ÅRTIDA'),
 	HABITAT VARCHAR(30),
 	primary key(NOMBRE_CONTINENTE,HABITAT),
 	foreign key(HABITAT) references HABITAT(NOMBRE) on delete cascade on update cascade
