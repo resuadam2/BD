@@ -23,7 +23,7 @@ create or replace table becario(
 );
 
 
-#Revisar con datos que ocurre al borrar al supervisor y arriba al sustituto también
+#Revisar con datos que ocurre al borrar al supervisor y arriba al sustituto tambiÃ©n
 create or replace table laboratorio(
 	id int primary key auto_increment,
 	num_planta int(2) not null,
@@ -52,3 +52,4 @@ create or replace table ordenador_componente(
 	primary key (id_ordenador, id_componente),
 	foreign key (id_ordenador) references ordenador(id) on delete restrict on update cascade,
 	foreign key (id_componente) references componente(id) on delete restrict on update cascade
+);
