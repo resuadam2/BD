@@ -9,6 +9,8 @@ create or replace table departamento(
 	nombre varchar(30) not null unique
 );
 
+# insert into departamento (nombre) value('Departamento por Defecto');
+
 create or replace table profesor(
 	nrp char(15) primary key,
 	nombre varchar(50) not null,
@@ -42,7 +44,7 @@ create or replace table grupo(
 		on delete cascade on update cascade
 );
 
-alter table profesor add column depto int not null default 0;
+alter table profesor add column depto int not null default 1;
 
 
 alter table profesor add foreign key (depto) references departamento(id)
@@ -68,10 +70,10 @@ create or replace table matricula(
 		on delete cascade on update cascade
 );
 
-alter table departamento add column director char(15);
+alter table departamento add column director char(15) default null;
 
 alter table departamento add foreign key (director) references profesor(nrp)
-		on delete restrict on update cascade;
+		on delete set null on update cascade;
 
 create or replace table alumno_grupo(
 	num_grupo int,
