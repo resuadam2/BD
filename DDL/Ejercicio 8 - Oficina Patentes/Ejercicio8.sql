@@ -7,7 +7,7 @@ use oficina_patentes;
 create or replace table PATENTE (
 NUMERO INT primary key AUTO_INCREMENT,
 INVENTO VARCHAR(150) not null,
-INVERTOR CHAR(9) not null,
+INVENTOR CHAR(9) not null,
 FECHA_OBTENCION DATE not null,
 FECHA_COMPRA DATE null
 );
@@ -15,7 +15,7 @@ FECHA_COMPRA DATE null
 create or replace table EMPRESA (
 CODIGO INT primary key auto_increment,
 NOMBRE VARCHAR(50) not null,
-DIRECCIÓN VARCHAR(50) not null,
+DIRECCIÃ“N VARCHAR(50) not null,
 TELEFONO INT(10) not null,
 check (TELEFONO >=0)
 );
@@ -27,7 +27,6 @@ TELEFONO INT(10) not null,
 DIRECCION VARCHAR(200) not NULL
 );
 
-alter table PATENTE add column INVENTOR CHAR(9) not null;
 alter table PATENTE add column EMPRESA INT null;
 
 alter table PATENTE add constraint 
