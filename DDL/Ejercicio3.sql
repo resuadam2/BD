@@ -61,7 +61,7 @@ create or replace table matricula(
 	dni char(9),
 	id_asig int,
 	convocatoria date,
-	calificacion real(2,2),
+	calificacion real(3,2),
 	primary key (dni,id_asig,convocatoria),
 	foreign key (dni) references alumno(dni) on delete cascade on update cascade,
 	foreign key (id_asig) references asignatura(id)
@@ -82,7 +82,7 @@ create or replace table alumno_grupo(
 	foreign key (dni) references alumno(dni) on delete cascade on update cascade
 );
 
-#TODO no se puede hacer con checks, hay que hacerlo con PREPARED STATEMENTS o con alguna TRANSACCIÓN
+#TODO no se puede hacer con checks, hay que hacerlo con PREPARED STATEMENTS o con alguna TRANSACCIÃ“N
 /*
 alter table alumno
 	add constraint tiene_matricula 
@@ -93,7 +93,7 @@ alter table alumno
 
 */
 
-#TODO no se puede hacer con checks, hay que hacerlo con PREPARED STATEMENTS o con alguna TRANSACCIÓN
+#TODO no se puede hacer con checks, hay que hacerlo con PREPARED STATEMENTS o con alguna TRANSACCIÃ“N
 /*
 alter table grupo 
 	add constraint tiene_profesor 
