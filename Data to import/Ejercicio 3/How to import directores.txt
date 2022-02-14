@@ -1,0 +1,5 @@
+Import the data from the csv departamentos skiping the column director.
+
+Then import the data from the csv profesores.
+
+Then execute the script directores.sql.

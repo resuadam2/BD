@@ -1,0 +1,151 @@
+﻿id;Nombre;Creditos;Caracter;Curso
+1;History;642;obligatoria;3º
+2;Geography;418;troncal;2º
+3;Latin;937;troncal;3º
+4;Spanish;321;obligatoria;4º
+5;Basic Math;97;optativa;5º
+6;Dramatics;290;troncal;3º
+7;Geography;347;optativa;1º
+8;Grammar;236;obligatoria;4º
+9;Sociology;995;troncal;2º
+10;Science;532;troncal;3º
+11;Instrumental Music;952;obligatoria;2º
+12;American Literature;823;optativa;3º
+13;Grammar;453;troncal;4º
+14;Trigonometry;266;optativa;5º
+15;Speech;254;obligatoria;3º
+16;Basic Math;490;troncal;1º
+17;Geography;620;troncal;4º
+18;Leadership;852;obligatoria;2º
+19;Latin;38;optativa;3º
+20;Language Arts;710;troncal;2º
+21;Latin;263;troncal;3º
+22;French;792;troncal;4º
+23;Speech;799;obligatoria;5º
+24;American Literature;732;optativa;3º
+25;Grammar;82;troncal;1º
+26;Trigonometry;787;optativa;4º
+27;Trigonometry;998;obligatoria;2º
+28;Instrumental Music;936;troncal;3º
+29;Basic Math;596;troncal;2º
+30;German;162;obligatoria;3º
+31;Handwriting;788;optativa;4º
+32;LOGIC;91;troncal;5º
+33;Language Arts;778;optativa;3º
+34;Speech;185;obligatoria;1º
+35;Science;891;troncal;4º
+36;German;975;troncal;2º
+37;Physical Education;234;obligatoria;3º
+38;Resource Program;103;optativa;2º
+39;Accounting;378;troncal;3º
+40;French;489;optativa;4º
+41;Latin;415;obligatoria;5º
+42;American Literature;815;troncal;3º
+43;Spanish;331;troncal;1º
+44;Ecology;314;obligatoria;4º
+45;Earth Science;706;optativa;2º
+46;Resource Program;519;troncal;3º
+47;Health;288;troncal;2º
+48;Modern Literature;869;troncal;3º
+49;Handwriting;818;obligatoria;4º
+50;Mathematics;746;optativa;5º
+51;Science;593;troncal;3º
+52;History;375;optativa;2º
+53;Dramatics;988;obligatoria;3º
+54;Trigonometry;919;troncal;4º
+55;Speech;602;troncal;5º
+56;Language Arts;411;obligatoria;3º
+57;Geography;361;optativa;1º
+58;Geography;372;troncal;4º
+59;Speech;845;optativa;2º
+60;Handwriting;905;obligatoria;3º
+61;Economics;504;troncal;2º
+62;Trigonometry;182;troncal;3º
+63;Resource Program;787;obligatoria;4º
+64;Science;959;optativa;5º
+65;Science;626;troncal;3º
+66;Instrumental Music;552;optativa;1º
+67;Resource Program;885;obligatoria;4º
+68;Dramatics;127;troncal;2º
+69;Spanish;703;troncal;3º
+70;LOGIC;212;obligatoria;2º
+71;Geography;637;optativa;3º
+72;Resource Program;669;troncal;3º
+73;Geography;364;troncal;2º
+74;Latin;84;troncal;3º
+75;Leadership;416;obligatoria;4º
+76;French;235;optativa;5º
+77;Dramatics;450;troncal;3º
+78;Sociology;942;optativa;1º
+79;Design and technology;788;obligatoria;4º
+80;French;362;troncal;2º
+81;Instrumental Music;634;troncal;3º
+82;Speech;930;obligatoria;2º
+83;Dramatics;998;optativa;3º
+84;Trigonometry;336;troncal;4º
+85;Handwriting;779;optativa;5º
+86;Basic Math;705;obligatoria;3º
+87;German;556;troncal;1º
+88;Latin;35;troncal;4º
+89;History;21;obligatoria;2º
+90;Design and technology;165;optativa;3º
+91;Sociology;668;troncal;2º
+92;Handwriting;14;optativa;3º
+93;Latin;493;obligatoria;4º
+94;Modern Literature;78;troncal;5º
+95;Dramatics;875;troncal;3º
+96;Art;297;obligatoria;1º
+97;German;48;optativa;4º
+98;Ecology;467;troncal;2º
+99;Design and technology;876;troncal;3º
+100;Grammar;624;troncal;2º
+101;Resource Program;39;obligatoria;3º
+102;Basic Math;53;optativa;4º
+103;Accounting;786;troncal;5º
+104;Spanish;620;optativa;3º
+105;Earth Science;689;obligatoria;3º
+106;Accounting;671;troncal;2º
+107;Mathematics;599;troncal;3º
+108;Leadership;453;obligatoria;4º
+109;Physical Education;492;optativa;5º
+110;American Literature;134;troncal;3º
+111;American Literature;879;optativa;1º
+112;American Literature;211;obligatoria;4º
+113;Speech;270;troncal;2º
+114;Leadership;560;troncal;3º
+115;Physical Education;550;obligatoria;2º
+116;Geography;877;optativa;3º
+117;Earth Science;324;troncal;4º
+118;Ecology;850;optativa;5º
+119;Spanish;937;obligatoria;3º
+120;German;100;troncal;1º
+121;Dramatics;3;troncal;4º
+122;Dramatics;496;obligatoria;2º
+123;History;479;optativa;3º
+124;Basic Math;233;troncal;2º
+125;History;447;troncal;3º
+126;Ecology;457;troncal;2º
+127;Art;453;obligatoria;3º
+128;Earth Science;269;optativa;4º
+129;Art;543;troncal;5º
+130;Physical Education;229;optativa;3º
+131;Latin;654;obligatoria;1º
+132;American Literature;245;troncal;4º
+133;American Literature;890;troncal;2º
+134;Instrumental Music;14;obligatoria;3º
+135;Modern Literature;969;optativa;2º
+136;Accounting;6;troncal;3º
+137;History;658;optativa;4º
+138;Basic Math;375;obligatoria;5º
+139;Basic Math;84;troncal;3º
+140;Leadership;823;troncal;1º
+141;Ancient Civilizations;162;obligatoria;4º
+142;Art;956;optativa;3º
+143;American Literature;699;troncal;2º
+144;Economics;50;optativa;3º
+145;Physical Education;477;obligatoria;4º
+146;Art;414;troncal;5º
+147;Spanish;972;troncal;3º
+148;Leadership;57;obligatoria;1º
+149;English IV;199;optativa;4º
+150;Trigonometry;609;troncal;2º
