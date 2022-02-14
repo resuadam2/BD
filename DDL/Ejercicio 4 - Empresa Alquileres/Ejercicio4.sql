@@ -19,7 +19,7 @@ create or replace table coche(
 	matricula varchar(10) primary key,
 	modelo varchar(20) not null,
 	color varchar(15) not null,
-	precio_dia decimal(3,2) not null,
+	precio_dia decimal(5,2) not null,
 	marca varchar (20) not null
 );
 
