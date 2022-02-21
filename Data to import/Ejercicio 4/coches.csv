@@ -1,0 +1,129 @@
+matricula,modelo,color,precio_dia,marca,garaje
+1234ABC,Honda Civic,Olive,30,Honda,1
+1235ABC,Audi Q7,Emerald,30,Audi,1
+1236ABC,Audi A8,Beige,30,Audi,1
+1237ABC,Fiat 500,Rosegold,30,Fiat,1
+1238ABC,Ford Focus,Turquoise,45,Ford,1
+1239ABC,Ford Fiesta,Maroon,45,Ford,1
+1240ABC,Kia Soul,Sky blue,45,Kia,1
+1241ABC,BMW M2,Apricot,45,BMW,1
+1242ABC,Audi Q6,Cyan,45,Audi,1
+1243ABC,Citroen Jumper,Sky blue,45,Citroen,1
+1244ABC,Audi A6,Capri,45,Audi,1
+1245ABC,Kia Soul,Amethyst,60,Kia,1
+1246ABC,Kia Sportage,White,60,Kia,2
+1247ABC,Mazda CX3,Aquamarine,60,Mazda,2
+1248ABC,BMW M6,Camel,60,BMW,2
+1249ABC,Hyundai i35,Barbie Pink,60,Hyundai,2
+1250ABC,BMW M6,Olive,60,BMW,2
+1251ABC,Ford Mustang,Brown,60,Ford,2
+1252ABC,Fiat Argo,Pink,60,Fiat,2
+1253ABC,BMW X1,Lavender,60,BMW,2
+1254ABC,Audi R8,Beige,120,Audi,2
+1255ABC,Citroen C4 Cactus,Cadet blue,120,Citroen,3
+1256ABC,Audi Q5,Rosegold,120,Audi,3
+1257ABC,Opel Astra,Mauve,80,Opel,3
+1258ABC,Ford Fiesta,Capri,75,Ford,3
+1259ABC,Ford Mondeo,Lime,55,Ford,3
+1260ABC,Audi Q6,Orange,120,Audi,3
+1261ABC,Audi Q1,Lime,150,Audi,3
+1262ABC,Opel Astra,Lime,150,Opel,3
+1263ABC,Citroen C4 Cactus,Emerald,22,Citroen,3
+1264ABC,Dacia Duster,Sienna,180,Dacia,3
+1265ABC,Citroen C4,White,50,Citroen,4
+1266ABC,Fiat Argo,Amethyst,50,Fiat,4
+1267ABC,Kia Soul,Aqua,50,Kia,4
+1268ABC,Kia Sportage,Carmine,50,Kia,4
+1269ABC,Audi A8,Olive,50,Audi,4
+1270ABC,BMW X5,Barbie Pink,50,BMW,4
+1271ABC,Honda Civic,Green,50,Honda,4
+1272ABC,Ford Fiesta,Cerise,40,Ford,4
+1273ABC,BMW M2,Rosegold,40,BMW,4
+1274ABC,BMW X5,Ruby,25,BMW,5
+1275ABC,Mazda CX5,Brown,60,Mazda,5
+1276ABC,Mazda CX5,Salmon,90,Mazda,5
+1277ABC,Mazda CX3,Azure,80,Mazda,5
+1278ABC,Audi V8,Beige,75,Audi,5
+1279ABC,Audi A4,Carmine,30,Audi,5
+1280ABC,Citroen C3,Carmine,30,Citroen,5
+1281ABC,Ford Mondeo,Amethyst,30,Ford,5
+1282ABC,Audi Cabriolet,Green,30,Audi,5
+1283ABC,Dacia Logan,Sky blue,45,Dacia,5
+1284ABC,Audi Q5,Cyan,45,Audi,5
+1285ABC,Audi Q6,Cadet blue,45,Audi,5
+1286ABC,Hyundai Elantra,Sepia,45,Hyundai,6
+1287ABC,Hyundai Elantra,Ultramarine,45,Hyundai,6
+1288ABC,Hyundai Santa Fe,coral,45,Hyundai,6
+1289ABC,Fiat Cronos,Gray,45,Fiat,6
+1290ABC,Dacia Sandero,Champagne,60,Dacia,7
+1291ABC,Kia Sportage,Aquamarine,60,Kia,7
+1292ABC,Mazda 3,Pink,60,Mazda,7
+1293ABC,Mazda 3,Mauve,60,Mazda,7
+1294ABC,Opel Astra,Lavender,60,Opel,7
+1295ABC,Hyundai Santa Fe,Dark red,60,Hyundai,7
+1296ABC,Audi V8,White,60,Audi,7
+1297ABC,BMW M5,Lavender,60,BMW,7
+1298ABC,Citroen Jumper,Maroon,60,Citroen,7
+1299ABC,Ford Focus,Sienna,120,Ford,8
+1300ABC,BMW M6,Champagne,120,BMW,8
+1301ABC,Fiat Panda,Green,120,Fiat,8
+1302ABC,Fiat Cronos,Dark red,80,Fiat,8
+1303ABC,Ford Mondeo,Amethyst,75,Ford,8
+1304ABC,Hyundai i20,Blue,55,Hyundai,8
+1305ABC,Dacia Sandero,Blue,120,Dacia,8
+1306ABC,Audi A5,Red,150,Audi,8
+1307ABC,Mazda CX5,Ruby,150,Mazda,8
+1308ABC,Kia Soul,Lime,150,Kia,8
+1309ABC,Audi A8,Sepia,180,Audi,8
+1310ABC,Audi Q5,Purple,50,Audi,8
+1311ABC,Hyundai i20,Red,50,Hyundai,8
+1312ABC,Audi A5,Sky blue,50,Audi,8
+1313ABC,Audi V8,Dark Red,50,Audi,8
+1314ABC,Citroen C3,Rosewood,50,Citroen,8
+1315ABC,BMW M3,Rosegold,50,BMW,8
+1316ABC,BMW X3,Dark red,50,BMW,8
+1317ABC,Mazda 3,Lime,40,Mazda,8
+1318ABC,Mitsubishi Lancer,Magenta,40,Mitsubishi,8
+1319ABC,Audi Q7,Dark Red,25,Audi,8
+1320ABC,Ford Focus,Magenta,60,Ford,8
+1321ABC,Opel Astra,Salmon,90,Opel,8
+1322ABC,BMW X1,Camel,80,BMW,8
+1323ABC,Fiat Freemont,Apricot,75,Fiat,8
+1324ABC,Fiat Freemont,Aquamarine,30,Fiat,8
+1325ABC,Kia Sorento,Capri,30,Kia,8
+1326ABC,Audi A6,Ruby,30,Audi,8
+1327ABC,Audi Q6,Sienna,30,Audi,8
+1328ABC,Opel Astra,Rosegold,45,Opel,8
+1329ABC,Audi V8,Aquamarine,45,Audi,8
+1330ABC,Fiat Argo,Cyan,45,Fiat,8
+1331ABC,Mazda CX5,Brown,45,Mazda,8
+1332ABC,Ford Fiesta,Gray,45,Ford,8
+1333ABC,Kia Sportage,Yellow,45,Kia,8
+1334ABC,Audi A5,Blue,45,Audi,8
+1335ABC,Audi A8,Amethyst,60,Audi,8
+1336ABC,BMW M5,Carmine,60,BMW,8
+1337ABC,Audi TT,Turquoise,60,Audi,8
+1338ABC,Ford Focus,White,60,Ford,8
+1339ABC,Hyundai i40,Aquamarine,60,Hyundai,8
+1340ABC,Kia Soul,Carmine,60,Kia,8
+1341ABC,Ford Fiesta,Lavender,60,Ford,8
+1342ABC,Citroen Nemo,Apricot,60,Citroen,8
+1343ABC,Hyundai Santa Fe,Salmon,60,Hyundai,9
+1344ABC,Audi Q7,Pink,120,Audi,10
+1345ABC,Fiat Cronos,Sepia,120,Fiat,11
+1346ABC,Audi R8,Salmon,120,Audi,12
+1347ABC,Mazda 3,Rust,80,Mazda,13
+1348ABC,Audi Q3,Ruby,75,Audi,14
+1349ABC,Audi R8,Sienna,55,Audi,16
+1350ABC,BMW M5,White,120,BMW,18
+1351ABC,Ford Focus,Purple,150,Ford,19
+1352ABC,Hyundai i20,Magenta,150,Hyundai,20
+1353ABC,Hyundai i35,Magenta,150,Hyundai,20
+1354ABC,Citroen Jumper,Ultramarine,180,Citroen,20
+1355ABC,Citroen Nemo,Mauve,50,Citroen,20
+1356ABC,Audi R8,Sky blue,50,Audi,20
+1357ABC,Mazda CX5,Aquamarine,50,Mazda,20
+1358ABC,BMW M6,Blue,225,BMW,20
+1359ABC,BMW M5,Gold,50,BMW,20
+1360ABC,Opel Insignia,Silver,50,Opel,20
+1361ABC,Citroen C4 Cactus,Ultramarine,50,Citroen,20
